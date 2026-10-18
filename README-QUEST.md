@@ -10,18 +10,25 @@ game data (about 7 GB) is downloaded separately.
 ## Install
 
 1. Install `WCSaga-VR-<version>.apk` with SideQuest or `adb install -r -g`.
-2. Put the Wing Commander Saga 0.9.65 game data on the headset so that this
-   folder exists: `/sdcard/WCSaga/Wing_Commander_Saga/data`
-   - Easiest: on a PC with Python 3 and 7-Zip, with the Quest connected by USB:
-     `python3 tools/quest/get_wcs_data.py WCSaga --push`
-     (downloads about 3.7 GB from the FSNebula mod repository, checks it,
-     unpacks it and copies it to the Quest).
-   - Or, on a Windows PC: download the full game and patch v1.1.0.7822 from
-     [wcsaga.com](https://www.wcsaga.com/downloads/), install the game, then the
-     patch, and copy the whole installed game folder to
-     `/sdcard/WCSaga/Wing_Commander_Saga` with SideQuest.
-3. Start **Wing Commander Saga VR** from *Unknown Sources* and allow
-   "access to all files" when asked.
+2. Start **Wing Commander Saga VR** from *Unknown Sources*. The first start opens
+   the **One-Tap Installer** window:
+   - Press **Allow file access**, switch on "Allow access" and press Done.
+   - Press **Download and install**. The game data (Wing Commander Saga 0.9.65,
+     3.6 GB) is downloaded from the FSNebula mod repository, checked and unpacked
+     to `/sdcard/WCSaga/Wing_Commander_Saga` (6.7 GB, about 9 GB free space needed
+     while installing). This takes about 10-20 minutes, depending on your Wi-Fi.
+     Keep the headset on. If it is interrupted, start the app again: it continues
+     where it stopped.
+   - When it is finished, the game starts. Later starts go straight into the game.
+
+You can also put the data on the headset yourself, so that the folder
+`/sdcard/WCSaga/Wing_Commander_Saga/data` exists; the installer is then skipped:
+- On a PC with Python 3 and 7-Zip, with the Quest connected by USB:
+  `python3 tools/quest/get_wcs_data.py WCSaga --push`
+- Or, on a Windows PC: download the full game and patch v1.1.0.7822 from
+  [wcsaga.com](https://www.wcsaga.com/downloads/), install the game, then the
+  patch, and copy the whole installed game folder to
+  `/sdcard/WCSaga/Wing_Commander_Saga` with SideQuest.
 
 ## Controls
 

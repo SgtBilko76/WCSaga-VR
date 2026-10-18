@@ -1,0 +1,123 @@
+{
+ "mod": "Wing_Commander_Saga",
+ "version": "0.9.65",
+ "archives": [
+  {
+   "name": "hermes_cbanis.7z",
+   "size": 444638194,
+   "sha256": "3d30c26ed226af702b7d5054bcf99b3e2d0f55e6e88050b3e809182f9794af99",
+   "urls": [
+    "https://cf.fsnebula.org/storage/3d/30/c26ed226af702b7d5054bcf99b3e2d0f55e6e88050b3e809182f9794af99",
+    "https://dl.fsnebula.org/storage/3d/30/c26ed226af702b7d5054bcf99b3e2d0f55e6e88050b3e809182f9794af99",
+    "https://hestia.feralhosting.com/discovery/nebula/3d/30/c26ed226af702b7d5054bcf99b3e2d0f55e6e88050b3e809182f9794af99"
+   ],
+   "dest": "",
+   "unpacked": 449052621,
+   "files": 77
+  },
+  {
+   "name": "hermes_core.7z",
+   "size": 880983,
+   "sha256": "d58ea7fb43cdce63f32699e6634799c90cdaea19f485014ada9ff53d75c2aa54",
+   "urls": [
+    "https://cf.fsnebula.org/storage/d5/8e/a7fb43cdce63f32699e6634799c90cdaea19f485014ada9ff53d75c2aa54",
+    "https://dl.fsnebula.org/storage/d5/8e/a7fb43cdce63f32699e6634799c90cdaea19f485014ada9ff53d75c2aa54",
+    "https://hestia.feralhosting.com/discovery/nebula/d5/8e/a7fb43cdce63f32699e6634799c90cdaea19f485014ada9ff53d75c2aa54"
+   ],
+   "dest": "",
+   "unpacked": 14788971,
+   "files": 136
+  },
+  {
+   "name": "hermes_effects.7z",
+   "size": 149885005,
+   "sha256": "83d08ec55735656571482210a4cd20c7cc9b4cd407e0e181ae97dc8799480e7d",
+   "urls": [
+    "https://cf.fsnebula.org/storage/83/d0/8ec55735656571482210a4cd20c7cc9b4cd407e0e181ae97dc8799480e7d",
+    "https://dl.fsnebula.org/storage/83/d0/8ec55735656571482210a4cd20c7cc9b4cd407e0e181ae97dc8799480e7d",
+    "https://hestia.feralhosting.com/discovery/nebula/83/d0/8ec55735656571482210a4cd20c7cc9b4cd407e0e181ae97dc8799480e7d"
+   ],
+   "dest": "",
+   "unpacked": 958458806,
+   "files": 2148
+  },
+  {
+   "name": "hermes_interface.7z",
+   "size": 32112538,
+   "sha256": "4336a43b893c01c43569cc4d653849a4fddc1081e483dd52c0e440c48d98501e",
+   "urls": [
+    "https://cf.fsnebula.org/storage/43/36/a43b893c01c43569cc4d653849a4fddc1081e483dd52c0e440c48d98501e",
+    "https://dl.fsnebula.org/storage/43/36/a43b893c01c43569cc4d653849a4fddc1081e483dd52c0e440c48d98501e",
+    "https://hestia.feralhosting.com/discovery/nebula/43/36/a43b893c01c43569cc4d653849a4fddc1081e483dd52c0e440c48d98501e"
+   ],
+   "dest": "",
+   "unpacked": 354121758,
+   "files": 3344
+  },
+  {
+   "name": "hermes_maps.7z",
+   "size": 410628366,
+   "sha256": "37cef96b7f47e6a6fe0ebd69b107e51561d2a8b1be6c92c0c905c05171eeb7a3",
+   "urls": [
+    "https://cf.fsnebula.org/storage/37/ce/f96b7f47e6a6fe0ebd69b107e51561d2a8b1be6c92c0c905c05171eeb7a3",
+    "https://dl.fsnebula.org/storage/37/ce/f96b7f47e6a6fe0ebd69b107e51561d2a8b1be6c92c0c905c05171eeb7a3",
+    "https://hestia.feralhosting.com/discovery/nebula/37/ce/f96b7f47e6a6fe0ebd69b107e51561d2a8b1be6c92c0c905c05171eeb7a3"
+   ],
+   "dest": "",
+   "unpacked": 1707892148,
+   "files": 2009
+  },
+  {
+   "name": "hermes_models.7z",
+   "size": 74175826,
+   "sha256": "ae4fdb8957a6acf9474d9c22aae7bc79d8bbff81c8bf32205088b8b068049da6",
+   "urls": [
+    "https://cf.fsnebula.org/storage/ae/4f/db8957a6acf9474d9c22aae7bc79d8bbff81c8bf32205088b8b068049da6",
+    "https://dl.fsnebula.org/storage/ae/4f/db8957a6acf9474d9c22aae7bc79d8bbff81c8bf32205088b8b068049da6",
+    "https://hestia.feralhosting.com/discovery/nebula/ae/4f/db8957a6acf9474d9c22aae7bc79d8bbff81c8bf32205088b8b068049da6"
+   ],
+   "dest": "",
+   "unpacked": 563989022,
+   "files": 170
+  },
+  {
+   "name": "hermes_movies.7z",
+   "size": 1858920012,
+   "sha256": "cf4cfc0667b49a8d7d4429183d4b0bcb94f55b0075cdf64c7aea440592978f23",
+   "urls": [
+    "https://cf.fsnebula.org/storage/cf/4c/fc0667b49a8d7d4429183d4b0bcb94f55b0075cdf64c7aea440592978f23",
+    "https://dl.fsnebula.org/storage/cf/4c/fc0667b49a8d7d4429183d4b0bcb94f55b0075cdf64c7aea440592978f23",
+    "https://hestia.feralhosting.com/discovery/nebula/cf/4c/fc0667b49a8d7d4429183d4b0bcb94f55b0075cdf64c7aea440592978f23"
+   ],
+   "dest": "",
+   "unpacked": 1870743040,
+   "files": 60
+  },
+  {
+   "name": "hermes_movies_prologue.7z",
+   "size": 284495816,
+   "sha256": "898691017a794cf34b4d287fcf40921a36989947714db914e50f7e2dce3fc09f",
+   "urls": [
+    "https://cf.fsnebula.org/storage/89/86/91017a794cf34b4d287fcf40921a36989947714db914e50f7e2dce3fc09f",
+    "https://dl.fsnebula.org/storage/89/86/91017a794cf34b4d287fcf40921a36989947714db914e50f7e2dce3fc09f",
+    "https://hestia.feralhosting.com/discovery/nebula/89/86/91017a794cf34b4d287fcf40921a36989947714db914e50f7e2dce3fc09f"
+   ],
+   "dest": "",
+   "unpacked": 285118059,
+   "files": 7
+  },
+  {
+   "name": "hermes_sounds.7z",
+   "size": 385348989,
+   "sha256": "385e0e034886fdd4c975a34d75c02b96d37110f3f3014a4be709546544367d49",
+   "urls": [
+    "https://cf.fsnebula.org/storage/38/5e/0e034886fdd4c975a34d75c02b96d37110f3f3014a4be709546544367d49",
+    "https://dl.fsnebula.org/storage/38/5e/0e034886fdd4c975a34d75c02b96d37110f3f3014a4be709546544367d49",
+    "https://hestia.feralhosting.com/discovery/nebula/38/5e/0e034886fdd4c975a34d75c02b96d37110f3f3014a4be709546544367d49"
+   ],
+   "dest": "",
+   "unpacked": 480055397,
+   "files": 6006
+  }
+ ]
+}
