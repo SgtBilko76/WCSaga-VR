@@ -32,6 +32,8 @@ You can also put the data on the headset yourself, so that the folder
 
 ## Controls
 
+![Wing Commander Saga VR controller mapping](docs/controls.webp)
+
 Menus, briefings and cutscenes are shown on a large screen in front of you.
 
 | Input | Action |
