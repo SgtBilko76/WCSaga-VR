@@ -1,5 +1,7 @@
 # Wing Commander Saga VR (Meta Quest)
 
+**Download, install guide, controls and pictures: [portroyale.online/wcsaga.html](https://portroyale.online/wcsaga.html)**
+
 Wing Commander Saga running natively on the Meta Quest 3, built on the
 [FreeSpace Open](https://github.com/scp-fs2open/fs2open.github.com) engine with
 OpenXR on OpenGL ES. Branch: `quest-vr`.
